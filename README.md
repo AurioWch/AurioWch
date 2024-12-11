@@ -2,7 +2,7 @@
 > 🦾 *"No te juzgues por tus caídas, juzga por cómo te levantarás"*  
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="400px" alt="GIF Futurista Ciberpunk">
+  <img src="https://i.pinimg.com/originals/6b/92/f2/6b92f26f064441f645aa2a92c26c7ba1.gif" width="400px" alt="GIF Futurista Ciberpunk">
 </div>
 
 ---
