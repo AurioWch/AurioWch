@@ -2,7 +2,7 @@
 > 🦾 *"No te juzgues por tus caídas, juzga por cómo te levantarás"*  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400px" alt="GIF Futurista Ciberpunk">
+  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="400px" alt="GIF Futurista Ciberpunk">
 </div>
 
 ---
@@ -53,7 +53,7 @@ Me encanta el estilo **futurista** y **ciberpunk**.
 Si visitas mi perfil, notarás mi enfoque en el diseño **minimalista** pero **llamativo**, con un toque de **anime** y elementos **futuristas** que destacan. ⚡  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="250px" alt="GIF Hacker Futurista">
+  <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="250px" alt="GIF Hacker Futurista">
 </div>
 
 ---
