@@ -1,20 +1,33 @@
 # 💻 **Wuider Joseph Chancahuaña Garcia** 
 > 🦾 *"No te juzgues por tus caídas, juzga por cómo te levantarás"*  
 
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400px" alt="GIF Futurista Ciberpunk">
+</div>
+
 ---
 
 ## 🧑‍💻 **Sobre Mí**
-¡Hola! Soy **Wuider Joseph Chancahuaña Garcia**, estudiante de la carrera de **Computación e Informática**, egresado del **Instituto Fibertel**. Actualmente, estoy especializándome en el desarrollo **Front-End** y expandiendo mis conocimientos en diversas tecnologías. Mi meta es convertirme en un programador profesional, siempre enfrentando nuevos desafíos con determinación y pasión. 🚀
+¡Hola! 👋 Soy **Wuider Joseph Chancahuaña Garcia**, estudiante de la carrera de **Computación e Informática**, egresado del **Instituto Fibertel**.  
+Actualmente, estoy especializándome en el desarrollo **Front-End** y expandiendo mis conocimientos en diversas tecnologías.  
+✨ Mi meta es convertirme en un programador profesional, siempre enfrentando nuevos desafíos con determinación y pasión. 🚀
 
 ---
 
 ## 🚀 **Tecnologías y Habilidades**
-🛠️ Aquí algunas de las herramientas y tecnologías que domino:  
-- **Lenguajes de Programación**: `Java`, `Python`, `PHP`  
-- **Bases de Datos**: `MySQL`, `SQL Server`  
-- **Desarrollo CRUD**: Implementación de sistemas de **Crear, Leer, Actualizar y Eliminar (CRUD)**.  
-- **APIs**: Creación y consumo de **APIs RESTful**.  
-- **Principios de Arquitectura de Sistemas**: Aplicación de principios **SOLID** y **Clean Architecture**.  
+🛠️ **Lenguajes de Programación**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+
+🛠️ **Bases de Datos**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
+
+🛠️ **Otras Habilidades**  
+- 🖥️ **CRUD**: Implementación de sistemas de **Crear, Leer, Actualizar y Eliminar (CRUD)**.  
+- ⚙️ **APIs**: Creación y consumo de **APIs RESTful**.  
+- 📐 **Arquitectura de Sistemas**: Aplicación de principios **SOLID** y **Clean Architecture**.  
 
 ---
 
@@ -29,24 +42,29 @@ Sistema de CRUD especializado para la gestión de alimentos, con una interfaz op
 
 ## 📞 **Contacto**
 Si quieres ponerte en contacto conmigo, aquí tienes mis datos:  
+
 📧 **Correo**: [wuider29@gmail.com](mailto:wuider29@gmail.com)  
 📱 **Teléfono**: [+123456789](tel:+123456789)  
 
 ---
 
 ## 🎨 **Diseño e Inspiración**
-Me encanta el estilo **futurista** y **ciberpunk**. Si visitas mi perfil, notarás mi enfoque en el diseño minimalista pero llamativo, con un toque de **anime** y elementos **futuristas** que destacan. ⚡  
-
----
-
-## 🕹️ **¿Quieres saber más?**
-¡Siempre estoy dispuesto a colaborar en proyectos interesantes y desafiantes! Mi enfoque está en la **programación web**, **desarrollo de aplicaciones móviles** y la creación de **sistemas CRUD efectivos**.  
+Me encanta el estilo **futurista** y **ciberpunk**.  
+Si visitas mi perfil, notarás mi enfoque en el diseño **minimalista** pero **llamativo**, con un toque de **anime** y elementos **futuristas** que destacan. ⚡  
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/83623445/223566409-272f1e0c-0e0c-403c-a9ec-f272f8034778.gif" width="250px">
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="250px" alt="GIF Hacker Futurista">
 </div>
 
 ---
 
+## 🕹️ **¿Quieres saber más?**
+¡Siempre estoy dispuesto a colaborar en proyectos interesantes y desafiantes!  
+Mi enfoque está en la **programación web**, **desarrollo de aplicaciones móviles** y la creación de **sistemas CRUD efectivos**.  
+
+---
+
 ## 🚀 **¡Sigamos Creciendo Juntos!**
-Si te gusta mi perfil o quieres colaborar, no dudes en enviarme un mensaje. Siempre estoy abierto a nuevas oportunidades y desafíos. ¡Gracias por visitar mi perfil! 😊
+Si te gusta mi perfil o quieres colaborar, no dudes en enviarme un mensaje.  
+Siempre estoy abierto a nuevas oportunidades y desafíos.  
+¡Gracias por visitar mi perfil! 😊
