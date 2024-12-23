@@ -33,20 +33,11 @@ Actualmente, estoy especializándome en el desarrollo **Front-End** y expandiend
 
 ---
 
-## 📚 **Proyectos Destacados**
-🔹 **CRUD de Productos**  
-Desarrollo de una aplicación completa de CRUD para la gestión de productos, con funcionalidades de **registrar**, **listar**, **editar** y **eliminar** productos, incluyendo la gestión de imágenes.  
-
-🔹 **CRUD de Alimentos**  
-Sistema de CRUD especializado para la gestión de alimentos, con una interfaz optimizada y una estructura de código siguiendo las mejores prácticas de **Clean Code** y **SOLID**.  
-
----
-
 ## 📞 **Contacto**
 Si quieres ponerte en contacto conmigo, aquí tienes mis datos:  
 
 📧 **Correo**: [wuider29@gmail.com](mailto:wuider29@gmail.com)  
-📱 **Teléfono**: [+123456789](tel:+123456789)  
+📱 **Teléfono**: [+51559690099]
 
 ---
 
@@ -62,7 +53,7 @@ Si visitas mi perfil, notarás mi enfoque en el diseño **minimalista** pero **l
 
 ## 🕹️ **¿Quieres saber más?**
 ¡Siempre estoy dispuesto a colaborar en proyectos interesantes y desafiantes!  
-Mi enfoque está en la **programación web**, **desarrollo de aplicaciones móviles** y la creación de **sistemas CRUD efectivos**.  
+Mi enfoque está en la **desarrollo web**, **desarrollo de aplicaciones móviles** y **Base de datos**.  
 
 ---
 
