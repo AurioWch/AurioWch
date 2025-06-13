@@ -10,7 +10,7 @@
 ---
 
 ## 🧑‍💻 **Sobre Mí**
-¡Hola! 👋 Soy **Wuider Joseph Chancahuaña Garcia**, Egresado de la carrera de **Computación e Informática**,  del **Instituto Fibertel**.  
+¡Hola! 👋 Soy **Wuider Joseph Chancahuaña Garcia**, Egresado de la carrera de **Computación e Informática**,  del **Instituto Cibertec**.  
 Actualmente, soy desarrollador web FullStack PHP y expandiendo mis conocimientos en diversas tecnologías.  
 ✨ Mi meta es convertirme en un desarrollador observativo para dar soluciones mejores cada dia , siempre enfrentando nuevos desafíos con determinación y pasión. 🚀
 
