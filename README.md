@@ -61,6 +61,7 @@ Mi meta es convertirme en un desarrollador observativo para dar soluciones mejor
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Navicat](https://img.shields.io/badge/Navicat-009591?style=for-the-badge&logo=database&logoColor=white)
 
 ---
 
