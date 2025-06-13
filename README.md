@@ -64,4 +64,28 @@ Mi meta es convertirme en un desarrollador observativo para dar soluciones mejor
 ![Navicat](https://img.shields.io/badge/Navicat-009591?style=for-the-badge&logo=database&logoColor=white)
 
 ---
+## 💼 **Especialidades y Servicios**
 
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px" alt="Web Development GIF">
+</div>
+
+### 🌐 **Desarrollo Web FullStack**
+- 🖥️ **Frontend**: Interfaces de usuario modernas, responsivas y optimizadas
+- ⚙️ **Backend**: APIs RESTful robustas y escalables
+- 🔗 **Integración**: Conexión seamless entre frontend y backend
+- 📱 **Responsive Design**: Sitios web que funcionan en todos los dispositivos
+
+### 🗃️ **Gestión de Bases de Datos**
+- 📊 **Diseño de Esquemas**: Estructuras de datos eficientes y normalizadas
+- 🔧 **Optimización**: Consultas SQL optimizadas para máximo rendimiento
+- 🔒 **Seguridad**: Implementación de mejores prácticas de seguridad
+- 📈 **Escalabilidad**: Diseño pensado para crecimiento futuro
+
+### 🎯 **Soluciones Personalizadas**
+- 🏢 **Sistemas Empresariales**: ERP, CRM, y sistemas de gestión
+- 🛒 **E-commerce**: Tiendas online completas y funcionales
+- 📊 **Dashboards**: Paneles de control interactivos y analytics
+- 🔧 **Automatización**: Scripts y herramientas para optimizar procesos
+
+---
