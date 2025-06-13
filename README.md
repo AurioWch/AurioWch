@@ -126,18 +126,6 @@ Domingos: Solo emergencias
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=FFFFFF&animation=twinkling" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=wuiderjoseph&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/wuiderjoseph?label=Followers&style=for-the-badge&color=FF6B6B&labelColor=0D1117" alt="Followers" />
-  <img src="https://img.shields.io/badge/Made%20with-❤️%20&%20☕-FFD700?style=for-the-badge&labelColor=0D1117" alt="Made with Love and Coffee" />
-</div>
-
----
-
-<div align="center">
   <h3>💫 "El código no es solo texto, es la materialización de ideas que cambian el mundo" 💫</h3>
   <p><em>¡Gracias por visitar mi perfil! 😊 Conectemos y creemos algo increíble juntos 🚀</em></p>
 </div>
