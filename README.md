@@ -10,9 +10,9 @@
 ---
 
 ## 🧑‍💻 **Sobre Mí**
-¡Hola! 👋 Soy **Wuider Joseph Chancahuaña Garcia**, estudiante de la carrera de **Computación e Informática**, egresado del **Instituto Fibertel**.  
-Actualmente, estoy especializándome en el desarrollo **Front-End** y expandiendo mis conocimientos en diversas tecnologías.  
-✨ Mi meta es convertirme en un programador profesional, siempre enfrentando nuevos desafíos con determinación y pasión. 🚀
+¡Hola! 👋 Soy **Wuider Joseph Chancahuaña Garcia**, Egresado de la carrera de **Computación e Informática**,  del **Instituto Fibertel**.  
+Actualmente, soy desarrollador web FullStack PHP y expandiendo mis conocimientos en diversas tecnologías.  
+✨ Mi meta es convertirme en un desarrollador observativo para dar soluciones mejores cada dia , siempre enfrentando nuevos desafíos con determinación y pasión. 🚀
 
 ---
 
@@ -24,25 +24,22 @@ Actualmente, estoy especializándome en el desarrollo **Front-End** y expandiend
 
 🛠️ **Bases de Datos**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  
 
-🛠️ **Otras Habilidades**  
-- 🖥️ **CRUD**: Implementación de sistemas de **Crear, Leer, Actualizar y Eliminar (CRUD)**.  
-- ⚙️ **APIs**: Creación y consumo de **APIs RESTful**.  
-- 📐 **Arquitectura de Sistemas**: Aplicación de principios **SOLID** y **Clean Architecture**.  
-
+🛠️ **Habilidades**  
+- 🖥️ **WEB**: Me dedico al Desarrollo de sistema web complejos acorde a cada necesita mediante codigo limpio eficiente ligero y escalable**.  
+ 
 ---
 
 ## 📞 **Contacto**
 Si quieres ponerte en contacto conmigo, aquí tienes mis datos:  
 
-📧 **Correo**: [wuider29@gmail.com](mailto:wuider29@gmail.com)  
+📧 **Correo**: [PandaForestDev@hotmail.com](PandaForestDev@hotmail.com)  
 📱 **Teléfono**: [+51559690099]
 
 ---
 
 ## 🎨 **Diseño e Inspiración**
-Me encanta el estilo **futurista** y **ciberpunk**.  
+Me encanta el estilo **futurista , ciberpunk** y **Minimalista**.  
 Si visitas mi perfil, notarás mi enfoque en el diseño **minimalista** pero **llamativo**, con un toque de **anime** y elementos **futuristas** que destacan. ⚡  
 
 <div align="center">
@@ -53,11 +50,8 @@ Si visitas mi perfil, notarás mi enfoque en el diseño **minimalista** pero **l
 
 ## 🕹️ **¿Quieres saber más?**
 ¡Siempre estoy dispuesto a colaborar en proyectos interesantes y desafiantes!  
-Mi enfoque está en la **desarrollo web**, **desarrollo de aplicaciones móviles** y **Base de datos**.  
+Mi enfoque está en la **desarrollo web** y **Control Estrucutra de bases de datos**.  
 
 ---
 
-## 🚀 **¡Sigamos Creciendo Juntos!**
-Si te gusta mi perfil o quieres colaborar, no dudes en enviarme un mensaje.  
-Siempre estoy abierto a nuevas oportunidades y desafíos.  
 ¡Gracias por visitar mi perfil! 😊
