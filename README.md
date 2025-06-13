@@ -30,3 +30,37 @@ Actualmente, soy desarrollador web FullStack PHP expandiendo mis conocimientos e
 Mi meta es convertirme en un desarrollador observativo para dar soluciones mejores cada día, siempre enfrentando nuevos desafíos con determinación y pasión. 🚀
 
 ---
+
+## 🚀 **Tecnologías y Habilidades**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,php,mysql,html,css,js,git,github,vscode,linux,docker" />
+</div>
+
+### 🛠️ **Lenguajes de Programación**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ **Bases de Datos**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 **Frontend Technologies**
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### ⚙️ **Backend & Frameworks**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Yii](https://img.shields.io/badge/Yii-34495E?style=for-the-badge&logo=Yii&logoColor=white)
+
+
+### 🛠️ **Herramientas y Tecnologías**
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+---
+
