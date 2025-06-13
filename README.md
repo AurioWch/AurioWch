@@ -5,53 +5,21 @@
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="400px" height="auto" alt="GIF Futurista Ciberpunk">
 </div>
 
-
-
----
-
-## 🧑‍💻 **Sobre Mí**
-¡Hola! 👋 Soy **Wuider Joseph Chancahuaña Garcia**, Egresado de la carrera de **Computación e Informática**,  del **Instituto Cibertec**.  
-Actualmente, soy desarrollador web FullStack PHP y expandiendo mis conocimientos en diversas tecnologías.  
-✨ Mi meta es convertirme en un desarrollador observativo para dar mejores soluciones cada dia , siempre enfrentando nuevos desafíos con determinación y pasión. 🚀
-
----
-
-## 🚀 **Tecnologías y Habilidades**
-🛠️ **Lenguajes de Programación**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-
-🛠️ **Bases de Datos**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-🛠️ **Habilidades**  
-- 🖥️ **WEB**: Me dedico al Desarrollo de sistema web complejos acorde a cada necesita mediante codigo limpio eficiente ligero y escalable**.  
- 
----
-
-## 📞 **Contacto**
-Si quieres ponerte en contacto conmigo, aquí tienes mis datos:  
-
-📧 **Correo**: [PandaForestDev@hotmail.com](PandaForestDev@hotmail.com)  
-
-
----
-
-## 🎨 **Diseño e Inspiración**
-Me encanta el estilo **futurista , ciberpunk** y **Minimalista**.  
-Si visitas mi perfil, notarás mi enfoque en el diseño **minimalista** pero **llamativo**, con un toque de **anime** y elementos **futuristas** que destacan. ⚡  
-
 <div align="center">
-  <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="250px" alt="GIF Hacker Futurista">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=FullStack+PHP+Developer;Web+Systems+Architect;Database+Engineer;Code+Innovator" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🕹️ **¿Quieres saber más?**
-¡Siempre estoy dispuesto a colaborar en proyectos interesantes y desafiantes!  
-Mi enfoque está en la **desarrollo web** y **Control Estrucutra de bases de datos**.  
+## 🌟 **Profile Stats & Activity**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wuiderjoseph&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?theme=cyberpunk&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B6B&fire=FFD700&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuiderjoseph&layout=compact&theme=cyberpunk&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
+</div>
 
 ---
-
-¡Gracias por visitar mi perfil! 😊
