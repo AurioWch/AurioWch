@@ -27,6 +27,6 @@ Actualmente, soy desarrollador web FullStack PHP expandiendo mis conocimientos e
 - 🚀 **Mejora continua**: Siempre aprendiendo nuevas tecnologías y mejores prácticas
 - 💡 **Innovación constante**: Buscando soluciones creativas a problemas complejos
 
-**Mi meta es convertirme en un desarrollador observativo para dar soluciones mejores cada día, siempre enfrentando nuevos desafíos con determinación y pasión. 🚀
+Mi meta es convertirme en un desarrollador observativo para dar soluciones mejores cada día, siempre enfrentando nuevos desafíos con determinación y pasión. 🚀
 
 ---
