@@ -89,3 +89,55 @@ Mi meta es convertirme en un desarrollador observativo para dar soluciones mejor
 - 🔧 **Automatización**: Scripts y herramientas para optimizar procesos
 
 ---
+
+## 📞 **Contacto Profesional**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200px" alt="Contact GIF">
+</div>
+
+### 📧 **Información de Contacto**
+- **Email Principal**: [PandaForestDev@hotmail.com](mailto:PandaForestDev@hotmail.com)
+- **Ubicación**: Lima, Perú 🇵🇪
+
+### ⏰ **Horarios de Disponibilidad**
+```
+Lunes - Viernes: 9:00 AM - 10:00 PM (PET)
+Sábados: 10:00 AM - 1:00 PM (PET)
+Domingos: Solo emergencias
+```
+
+---
+
+## 🕹️ **¿Quieres saber más?**
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300px" alt="Collaboration GIF">
+</div>
+
+¡Siempre estoy dispuesto a colaborar en proyectos interesantes y desafiantes! Mi enfoque está en el **desarrollo web** y **control de estructura de bases de datos**.
+
+### 🎯 **Lo que puedo ofrecerte:**
+- 💻 **Desarrollo Web Completo**: Desde la concepción hasta el deployment
+- 🗄️ **Arquitectura de Datos**: Diseño y optimización de bases de datos
+- 🔧 **Mantenimiento y Soporte**: Actualizaciones y mejoras continuas
+- 📈 **Escalabilidad**: Soluciones que crecen con tu negocio
+  
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=FFFFFF&animation=twinkling" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=wuiderjoseph&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/wuiderjoseph?label=Followers&style=for-the-badge&color=FF6B6B&labelColor=0D1117" alt="Followers" />
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20&%20☕-FFD700?style=for-the-badge&labelColor=0D1117" alt="Made with Love and Coffee" />
+</div>
+
+---
+
+<div align="center">
+  <h3>💫 "El código no es solo texto, es la materialización de ideas que cambian el mundo" 💫</h3>
+  <p><em>¡Gracias por visitar mi perfil! 😊 Conectemos y creemos algo increíble juntos 🚀</em></p>
+</div>
