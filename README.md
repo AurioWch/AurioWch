@@ -34,7 +34,7 @@ Actualmente, soy desarrollador web FullStack PHP y expandiendo mis conocimientos
 Si quieres ponerte en contacto conmigo, aquí tienes mis datos:  
 
 📧 **Correo**: [PandaForestDev@hotmail.com](PandaForestDev@hotmail.com)  
-📱 **Teléfono**: [+51559690099]
+
 
 ---
 
