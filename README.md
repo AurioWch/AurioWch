@@ -1,4 +1,4 @@
-# 💻 **Wuider Joseph Chancahuaña Garcia** 
+# 💻 **Wuider Chancahuaña ** 
 > 🦾 *"No te juzgues por tus caídas, juzga por cómo te levantarás"*  
 
 <div align="center">
