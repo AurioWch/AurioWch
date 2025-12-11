@@ -1,41 +1,30 @@
 <div align="center">
-  <h1>Wuider Chancahuaña</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Wuider+Chancahua%C3%B1a;Backend+Developer;PHP+%2B+Laravel;Code+Is+Poetry" alt="Typing SVG" />
 </div>
 
 <br>
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="center">
 
 ### 👨‍💻 Sobre Mí
 
-> 🦾 *"No te juzgues por tus caídas, juzga por cómo te levantarás"*
+> ⚡ *"El código no miente, los comentarios a veces sí."*
 
-<div align="center">
-    <img src="https://media1.tenor.com/m/XLCa8a4vQYcAAAAC/cat-typing.gif" width="180" alt="Cat typing GIF"/>
-</div>
+¡Hola! Soy **Wuider Joseph**, desarrollador especializado en **PHP y Arquitectura de Datos** de Lima, Perú 🇵🇪.
 
-¡Hola! Soy **Wuider Joseph**, desarrollador FullStack PHP de **Lima, Perú** 🇵🇪.
+Me apasiona crear backends sólidos y eficientes. Mi entorno natural es una terminal oscura, música Lo-Fi y VS Code con el tema **Antigravity**.
 
-Me especializo en crear sistemas web escalables y mantener bases de datos robustas. Mi filosofía es el **código limpio** y soluciones que realmente sirvan al usuario.
-
-- 🔭 **Trabajando en:** Desarrollo de arquitecturas PHP/Laravel.
-- ⚡ **Stack Favorito:** PHP + MySQL + VS Code (Team Antigravity).
-- 📫 **Contacto:** `PandaForestDev@hotmail.com`
+- 🔭 **Actualidad:** Optimizando sistemas en `SpacksoSysnetDev`.
+- 🧠 **Aprendiendo:** Patrones de diseño avanzados y CI/CD.
+- 💬 **Hablemos de:** Optimización SQL y Lógica de Negocio.
+- 📫 **Email:** `PandaForestDev@hotmail.com`
 
 </td>
-<td width="40%" valign="top">
+<td width="35%" valign="center" align="center">
 
-### 🛠️ Tech Stack
-
-<p>Mis herramientas y tecnologías favoritas:</p>
-
-<br><br><br><br>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,laravel,java,python,html,css,js,bootstrap,jquery,git,github,vscode,linux,docker&perline=5" height="35" alt="Tech Stack Icons" />
-</div>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="90%" alt="Cat Hacker Neon">
 
 </td>
 </tr>
@@ -43,8 +32,29 @@ Me especializo en crear sistemas web escalables y mantener bases de datos robust
 
 <br>
 
+<h3 align="center">🛠️ Arsenales & Tecnologías</h3>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25" />
+  
+  <br><br>
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25" />
+</div>
+
+<br>
+<br>
+
 <div align="center">
   <a href="https://portafolio-web-one-psi.vercel.app/">
-    <img src="https://img.shields.io/badge/✨_VISITA_MI_PORTAFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white&color=00D9FF" alt="Botón Portafolio" />
+    <img src="https://img.shields.io/badge/🚀_VER_PORTAFOLIO_WEB-000000?style=flat&logo=vercel&logoColor=white&color=00D9FF&labelColor=1a1a1a" height="35" alt="Botón Portafolio" />
   </a>
 </div>
