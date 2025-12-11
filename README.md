@@ -1,26 +1,69 @@
 <div align="center">
-  <img src="https://media.tenor.com/y4k-7tP3kCgAAAAd/flipper-zero-flipper.gif" width="150" alt="Flipper Zero Dolphin"/>
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=700&size=35&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=INITIALIZING+SYSTEM...;USER:_[WUIDER+CHANCANHUA%C3%91A];CLASS:_[PHP+BACKEND+ARCHITECT];TARGET:_[CYBERPUNK+DATA+MASTERY]" alt="Typing SVG" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="40" height="40" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=40&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=WUIDER+JOSEPH;PHP+BACKEND+ARCHITECT;FULLSTACK+DEVELOPER" alt="Typing SVG" />
+  </a>
 </div>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b830df02-884f-4561-9d25-700048127108" width="100%">
+<br>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c148646eb.gif" width="100%">
+</div>
+
+<br>
 
 <table>
 <tr>
-<td width="60%" valign="top" style="border: 2px solid #FF8C00;">
+<td width="55%" valign="center">
 
-### 📟 `[root@flipper ~]# cat system_info.nfo`
+### `>_` **CODE & ARCHITECTURE**
 
-```bash
-# >_ ACCESANDO BASE DE DATOS DEL USUARIO...
-# >_ CARGANDO PERFIL: WUIDER JOSEPH
+> *"Menos es más. El código limpio es arte."*
 
-[STATUS]    Online 🟢 Lima, Perú 🇵🇪
-[ROLE]      FullStack PHP Developer & DB Architect
-[MISSION]   Construir backends robustos y seguros.
-[CURRENT]   Hacking the Mainframe @ SpacksoSysnetDev
-[THEME]     VS Code Antigravity Protocol
+Soy **Wuider Joseph**, un desarrollador FullStack enfocado en la eficiencia y la escalabilidad. Me especializo en **PHP**, arquitectura de bases de datos y la construcción de sistemas robustos que funcionan sin problemas.
 
-# >_ "El código es poder. Controla los datos."
+- 🔭 **Actualmente:** Optimizando core systems.
+- 🎯 **Enfoque:** Patrones de diseño y rendimiento SQL.
+- 📍 **Ubicación:** Lima, Perú.
+
+<br>
+
+<a href="mailto:PandaForestDev@hotmail.com">
+<img src="https://img.shields.io/badge/CONTACTO_EMAIL-FFD700?style=for-the-badge&logo=microsoftoutlook&logoColor=black"/>
+</a>
+
+</td>
+<td width="45%" align="center" valign="center">
+
+<img src="https://media.giphy.com/media/l3vR16pONsV8cKkWk/giphy.gif" width="90%" style="border-radius: 8px; border: 2px solid #FFD700;">
+
+</td>
+</tr>
+</table>
+
+<br>
+<br>
+
+<div align="center">
+  <h3>⚡ **HERRAMIENTAS CLAVE** ⚡</h3>
+  
+  <p>
+    <img src="https://img.shields.io/badge/PHP-FFD700?style=flat-square&logo=php&logoColor=black&color=black"/>
+    <img src="https://img.shields.io/badge/Laravel-FFD700?style=flat-square&logo=laravel&logoColor=black&color=black"/>
+    <img src="https://img.shields.io/badge/MySQL-FFD700?style=flat-square&logo=mysql&logoColor=black&color=black"/>
+    <img src="https://img.shields.io/badge/Java-FFD700?style=flat-square&logo=openjdk&logoColor=black&color=black"/>
+    &nbsp; &nbsp;
+    <img src="https://img.shields.io/badge/Git-FFD700?style=flat-square&logo=git&logoColor=black&color=black"/>
+    <img src="https://img.shields.io/badge/VS_Code-FFD700?style=flat-square&logo=visual-studio-code&logoColor=black&color=black"/>
+    <img src="https://img.shields.io/badge/Linux-FFD700?style=flat-square&logo=linux&logoColor=black&color=black"/>
+  </p>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <a href="https://portafolio-web-one-psi.vercel.app/">
+    <img src="https://img.shields.io/badge/👉_VISITAR_PORTAFOLIO_WEB-FFD700?style=for-the-badge&logo=vercel&logoColor=black&labelColor=black" height="50"/>
+  </a>
+</div>
