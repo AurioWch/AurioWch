@@ -17,7 +17,6 @@
 Me especializo en crear sistemas web escalables y mantener bases de datos robustas. Mi filosofía es el **código limpio** y soluciones que realmente sirvan al usuario.
 
 - 🔭 **Trabajando en:** Desarrollo de arquitecturas PHP/Laravel.
-- 👯 **Busco colaborar en:** Proyectos Open Source y E-commerce.
 - ⚡ **Stack Favorito:** PHP + MySQL + VS Code (Team Antigravity).
 - 📫 **Contacto:** `PandaForestDev@hotmail.com`
 
