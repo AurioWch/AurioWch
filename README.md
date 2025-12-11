@@ -1,11 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Wuider+Chancahua%C3%B1a;FullStack+PHP+Developer;Database+Architect;Code+Innovator" alt="Typing SVG" />
-  
-  <br>
-
-  <a href="https://portafolio-web-one-psi.vercel.app/">
-    <img src="https://img.shields.io/badge/✨_Visita_mi_Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=00D9FF" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Wuider+Chancahua%C3%B1a;FullStack+PHP+Developer;Database+Architect;" alt="Typing SVG" />
 </div>
 
 <hr/>
@@ -47,7 +41,7 @@ Me especializo en crear sistemas web escalables y mantener bases de datos robust
 <br>
 
 <div align="center">
-  <a href="https://github.com/AurioWch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AurioWch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Wuider's Stats" />
+  <a href="https://portafolio-web-one-psi.vercel.app/">
+    <img src="https://img.shields.io/badge/✨_Visita_mi_Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=00D9FF" />
   </a>
 </div>
