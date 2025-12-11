@@ -3,9 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=40&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=WUIDER+CHANCAHUAÑA;DATA+ANALIST;PHP+FULLSTACK+DEVELOPER" alt="Typing SVG" />
   </a>
 </div>
-
-<br>
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c148646eb.gif" width="100%">
 </div>
@@ -25,13 +22,10 @@ Soy **Wuider Joseph**, un desarrollador FullStack enfocado en la eficiencia y la
 - 🔭 **Trabajando en:** Desarrollo de arquitecturas PHP.
 - ⚡ **Stack Favorito:** PHP + MySQL + VS Code.
 - 🎯 **Enfoque:** Patrones de diseño y rendimiento SQL.
+- 📫 **Contacto:** `PandaForestDev@hotmail.com`
 - 📍 **Ubicación:** Lima, Perú.
 
 <br>
-
-<a href="mailto:PandaForestDev@hotmail.com">
-<img src="https://img.shields.io/badge/CONTACTO_EMAIL-FFD700?style=for-the-badge&logo=microsoftoutlook&logoColor=black"/>
-</a>
 
 </td>
 <td width="45%" align="center" valign="center">
