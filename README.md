@@ -1,16 +1,20 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Wuider+Chancahua%C3%B1a;FullStack+PHP+Developer;Database+Architect;" alt="Typing SVG" />
+  <h1>Wuider Chancahuaña</h1>
 </div>
 
-<hr/>
+<br>
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
 ### 👨‍💻 Sobre Mí
 
 > 🦾 *"No te juzgues por tus caídas, juzga por cómo te levantarás"*
+
+<div align="center">
+    <img src="https://media1.tenor.com/m/XLCa8a4vQYcAAAAC/cat-typing.gif" width="180" alt="Cat typing GIF"/>
+</div>
 
 ¡Hola! Soy **Wuider Joseph**, desarrollador FullStack PHP de **Lima, Perú** 🇵🇪.
 
@@ -21,16 +25,16 @@ Me especializo en crear sistemas web escalables y mantener bases de datos robust
 - 📫 **Contacto:** `PandaForestDev@hotmail.com`
 
 </td>
-<td width="45%" valign="top">
+<td width="40%" valign="top">
 
 ### 🛠️ Tech Stack
 
+<p>Mis herramientas y tecnologías favoritas:</p>
+
+<br><br><br><br>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,laravel,yii,java,python&perline=3" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery&perline=5" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&perline=5" />
+  <img src="https://skillicons.dev/icons?i=php,mysql,laravel,java,python,html,css,js,bootstrap,jquery,git,github,vscode,linux,docker&perline=5" height="35" alt="Tech Stack Icons" />
 </div>
 
 </td>
@@ -41,6 +45,6 @@ Me especializo en crear sistemas web escalables y mantener bases de datos robust
 
 <div align="center">
   <a href="https://portafolio-web-one-psi.vercel.app/">
-    <img src="https://img.shields.io/badge/✨_Visita_mi_Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white&color=00D9FF" />
+    <img src="https://img.shields.io/badge/✨_VISITA_MI_PORTAFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white&color=00D9FF" alt="Botón Portafolio" />
   </a>
 </div>
