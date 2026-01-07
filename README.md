@@ -1,8 +1,8 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Wuider%20Chancahuaña&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=FullStack%20PHP%20Developer%20|%20" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Wuider%20Chancahuaña&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=FullStack%20PHP%20Developer&descAlignY=51&descAlign=50" />
 </div>
 
-<br>
+
 
 ## 👨‍💻 Sobre Mí
 
