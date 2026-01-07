@@ -1,62 +1,47 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=40&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=WUIDER+CHANCAHUAÑA;DATA+ANALIST;PHP+FULLSTACK+DEVELOPER" alt="Typing SVG" />
-  </a>
-</div>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c148646eb.gif" width="100%">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Wuider%20Chancahuaña&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=FullStack%20PHP%20Developer%20|%20" />
 </div>
 
 <br>
 
-<table>
-<tr>
-<td width="55%" valign="center">
+## 👨‍💻 Sobre Mí
 
-### `>_` **CODE & ARCHITECTURE**
+```php
+<?php
 
-> *"Menos es más. El código limpio es arte."*
+$developer = [
+    "nombre" => "Wuider Joseph",
+    "ubicación" => "Lima, Perú 🇵🇪",
+    "enfoque" => "Arquitecturas PHP/Laravel escalables",
+    "pasión" => "Código limpio y soluciones útiles",
+    "filosofía" => "🦾 'Observacion , Logica y Accesibilidad  '"
+];
+```
 
-Soy **Wuider Joseph**, un desarrollador FullStack enfocado en la eficiencia y la escalabilidad. Me especializo en **PHP**, arquitectura de bases de datos y la construcción de sistemas robustos que funcionan sin problemas.
-
-- 🔭 **Trabajando en:** Desarrollo de arquitecturas PHP.
-- ⚡ **Stack Favorito:** PHP + MySQL + VS Code.
-- 🎯 **Enfoque:** Patrones de diseño y rendimiento SQL.
-- 📫 **Contacto:** `PandaForestDev@hotmail.com`
-- 📍 **Ubicación:** Lima, Perú.
-
-<br>
-
-</td>
-<td width="45%" align="center" valign="center">
-
-<img src="https://media.giphy.com/media/l3vR16pONsV8cKkWk/giphy.gif" width="90%" style="border-radius: 8px; border: 2px solid #FFD700;">
-
-</td>
-</tr>
-</table>
+🔭 Trabajando en proyectos **PHP Yii / Laravel** escalables  
+👯 Abierto a colaborar en **Open Source**  
+📫 Contáctame: **PandaForestDev@hotmail.com**  
+🌐 Portfolio: **[Ver mi trabajo](https://portafolio-web-one-psi.vercel.app/)**
 
 <br>
-<br>
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <h3>⚡ **HERRAMIENTAS CLAVE** ⚡</h3>
-  
-  <p>
-  <img src="https://skillicons.dev/icons?i=php,mysql,laravel,yii,java,python&perline=3" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery&perline=5" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&perline=5" />
 
-  </p>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 </div>
-
-<br>
 <br>
 
 <div align="center">
-  <a href="https://portafolio-web-one-psi.vercel.app/">
-    <img src="https://img.shields.io/badge/👉_VISITAR_PORTAFOLIO_WEB-FFD700?style=for-the-badge&logo=vercel&logoColor=black&labelColor=black" height="50"/>
-  </a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
